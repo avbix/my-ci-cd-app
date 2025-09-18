@@ -7,7 +7,7 @@ def hello():
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Flask App</title>
+        <title>Flask App!</title>
         <style>
             body { 
                 font-family: Arial, sans-serif; 
